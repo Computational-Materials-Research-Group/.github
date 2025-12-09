@@ -1,6 +1,7 @@
 # Computational Materials Research Group
 
-
+<div align="center">
+  
 ![melt2 (online-video-cutter com)](https://github.com/user-attachments/assets/dd2d5443-1db2-4faa-8c61-8d8fe2662817)
 
 ### Data-driven Materials Science and Manufacturing
