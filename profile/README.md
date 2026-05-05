@@ -29,19 +29,6 @@ Our research encompasses several key areas in computational materials science:
 - **Data-Driven Manufacturing**: Optimization of manufacturing processes using computational intelligence
 - **Materials Informatics**: Building databases and leveraging data analytics for materials design
 
-## Software We Use
-
-<div align="center">
-
-| | Software | Description |
-|---|---|---|
-| <img src="https://www.freefem.org/assets/img/logo-freefem.png" height="40" alt="FreeFEM++"/> | **[FreeFEM++](https://freefem.org/)** | Open-source PDE solver using the finite element method |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/OpenFOAM_logo.png/320px-OpenFOAM_logo.png" height="40" alt="OpenFOAM"/> | **[OpenFOAM](https://openfoam.org/)** | Open-source CFD toolbox for continuum mechanics |
-| <img src="https://www.lammps.org/images/lammps-logo.png" height="40" alt="LAMMPS"/> | **[LAMMPS](https://www.lammps.org/)** | Molecular dynamics simulator for materials modeling |
-| <img src="https://www.gromacs.org/images/logo/gromacs_logo_full.png" height="40" alt="GROMACS"/> | **[GROMACS](https://www.gromacs.org/)** | High-performance MD package for biomolecular simulations |
-
-</div>
-
 ## Featured Repositories
 
 ### Active Projects
